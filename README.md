@@ -1,3 +1,3 @@
-# apcsa_solutions
+# thinkjavap
 
-Repo for Mr. Chan's Java excercises and Simon assignment solutions.
+Repo for Mr. Chan's thinkjava excercises.
