@@ -1,0 +1,22 @@
+/**  Excerise 1 **/
+// 1
+// Statements are lines of code that are processed by the compiler.
+// Comments are lines of text that are ignored by the complier.
+
+// 2
+// A program is portable when it works on any kind of computer.
+
+// 3
+// In common English, compile means to put together.
+
+// 4
+// An execuatable is a file that can be run and does something.
+// It's used as a noun because it's a file, it's a thing that exists on your computer.
+
+
+/**  Excerise 2 **/
+// See ch1.java
+
+
+/**  Excerise 3 **/
+// All about syntax errors that the compiler can catch.
